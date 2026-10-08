@@ -33,6 +33,18 @@
 </p>
 
 
+### 🥋 Codewars Progress
+
+<p align="center">
+  <a href="https://www.codewars.com/users/ThDawnWind">
+    <img
+      src="https://www.codewars.com/users/ThDawnWind/badges/large"
+      alt="Codewars Progress"
+    />
+  </a>
+</p>
+
+
 <strong>Contact me:</strong>
 <p align="center">
   <a href="mailto:thedawnwind@mail.ru" target="_blank" >📧 Email: thedawnwind@mail.ru</a> • • • 
